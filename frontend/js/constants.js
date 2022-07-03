@@ -1,4 +1,4 @@
-const contractAddress = "0x360cd4F2952973C27FcbF9CFE7e233C1309802bB"; // Replace with your own contract address
+const contractAddress = 0x1230E74Ea39D70fd33Cd2db1aa1762ded88b7A6E""; // Replace with your own contract address
 const chain = 'rinkeby'; // rinkeby, polygon, or ethereum
 
 const welcome_h1 = "Welcome to the Friendly Stick NFT Project!!";
